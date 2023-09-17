@@ -1,4 +1,4 @@
-![MasterHead](https://discord.com/channels/1130074309910593566/1130074311399579710)
+![MasterHead](https://cdn.discordapp.com/attachments/1130074311399579710/1151916153971691591/Black_Gradient_Minimalist_Corporate_Business_Personal_Profile_New_LinkedIn_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Aman Rajput</h1>
 <h3 align="center">A passionate Web Developer</h3>
