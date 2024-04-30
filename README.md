@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/1130074311399579710/1151916153971691591/Black_Gradient_Minimalist_Corporate_Business_Personal_Profile_New_LinkedIn_Banner.png)
 
-<h1 align="center">Hi 👋, I'm Aman Rajput</h1>
+<h1 align="center">Hi 👋, I'm Aman Singh</h1>
 <h3 align="center">"Detail-Oriented Front End Developer working with HTML, CSS, Javascript. Highly adept at both independent and collaborative projects, with an emphasis on landing page and website development."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
