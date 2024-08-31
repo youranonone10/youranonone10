@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">"Detail-Oriented Front End Developer working with HTML, CSS, Javascript. Highly adept at both independent and collaborative projects, with an emphasis on landing page and website development."</h3>
+<h3 align="center">"Detail-oriented Front End Developer and UI/UX Designer skilled in HTML, CSS, and JavaScript. Highly adept at both independent and collaborative projects, with a strong emphasis on landing page, website development, and creating intuitive user interfaces.."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youranonone10&label=Profile%20views&color=0e75b6&style=flat" alt="youranonone10" /> </p>
